@@ -19,7 +19,7 @@ sudo make install
 ```
 Note: v2.0.0.2 is the currently tested Ansible version.  Other versions may not work correctly.
 
-# Ansible playbood layout
+# Ansible playbook layout
 
 ``` 
 # Ansible top level file and directory structure
